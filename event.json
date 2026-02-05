@@ -4,7 +4,7 @@
     "hero": {
       "campfire": "CAMPFIRE",
       "subtitle": "Game jam for high schoolers in 200+ cities",
-      "hostedAt": "Hosted @ ",
+      "hostedAt": "Hosted @ Adelphi University",
       "emailPlaceholder": "long-island@campfire.hackclub.com",
       "ctaPrimary": "SIGN UP!",
       "ctaSecondary": "flagship event",
@@ -59,7 +59,7 @@
   },
   "event": {
     "city": "Long Island",
-    "date": "Feb 28 - Mar 1, 2026",
+    "date": "Feb 28, 2026",
     "venue": {
       "name": "TBD",
       "link": ""
